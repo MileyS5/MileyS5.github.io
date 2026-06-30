@@ -1,4 +1,6 @@
 console.log("This is loaded from the external JS file");
+alert("This is an alert!! Click to continue.");
+
 var name = "Miley";
 let school = "Central Piedmont Early College";
 var fun_fact = "My primary hobby is art and design";
